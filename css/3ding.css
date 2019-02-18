@@ -1,0 +1,37 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+}
+
+
+
+#blockColorblindContent {
+    display: none;
+}
+
+.green {
+    color: green;
+}
+
+.table-pricing {
+    background-color: #f3f3f3;
+}
+
+.table td, .table th {
+    padding: 0.3rem;
+    vertical-align: middle;
+}
+
+#drop_zone {
+    background-color: #EEE;
+    border: #999 5px dashed;
+    height: 200px;
+    width: 100%;
+    padding: 8px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
